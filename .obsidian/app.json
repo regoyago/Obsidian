@@ -1,1 +1,17 @@
-{}
+{
+  "spellcheck": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "bijection",
+    "bijective",
+    "codomain",
+    "preimage",
+    "surjection",
+    "surjective",
+    "injective"
+  ]
+}

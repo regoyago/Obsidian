@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "969598c55d5bca89",
+        "id": "dfac3a7c0ea7f585",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -21,7 +24,7 @@
       {
         "id": "2d63451ca99cab95",
         "type": "tabs",
-        "dimension": 28.041825095057032,
+        "dimension": 28.041825095057035,
         "children": [
           {
             "id": "4547677c62d05038",
@@ -81,12 +84,25 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2944d2c36a0fc24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -97,8 +113,17 @@
     "direction": "horizontal",
     "width": 221.5
   },
-  "active": "969598c55d5bca89",
+  "active": "dfac3a7c0ea7f585",
   "lastOpenFiles": [
-    "README.md"
+    "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/injection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/bijection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/mathematical function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/function composition.md",
+    "Computer Science/mathematics/discrete mathematics/functions/image.md",
+    "Computer Science/mathematics/discrete mathematics/functions/inverse function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/inverse image.md",
+    "Computer Science/mathematics/discrete mathematics/functions/codomain.md"
   ]
 }
