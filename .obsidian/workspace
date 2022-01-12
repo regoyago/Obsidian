@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dfac3a7c0ea7f585",
+        "id": "e1e2a7f234784c57",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+            "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+                "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+                "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,17 +113,17 @@
     "direction": "horizontal",
     "width": 221.5
   },
-  "active": "dfac3a7c0ea7f585",
+  "active": "e1e2a7f234784c57",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
-    "Computer Science/mathematics/discrete mathematics/functions/injection.md",
-    "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
-    "Computer Science/mathematics/discrete mathematics/functions/bijection.md",
-    "Computer Science/mathematics/discrete mathematics/functions/mathematical function.md",
-    "Computer Science/mathematics/discrete mathematics/functions/function composition.md",
-    "Computer Science/mathematics/discrete mathematics/functions/image.md",
-    "Computer Science/mathematics/discrete mathematics/functions/inverse function.md",
-    "Computer Science/mathematics/discrete mathematics/functions/inverse image.md",
-    "Computer Science/mathematics/discrete mathematics/functions/codomain.md"
+    "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/newton's generalized binomial theorem.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/variation.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/rule of sum.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation (repetition).md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/factorial.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/dirichlet's drawer principle.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/derangement.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/combinatorics.md"
   ]
 }
