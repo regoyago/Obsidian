@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4547677c62d05038",
+        "id": "969598c55d5bca89",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -19,8 +19,24 @@
     "type": "split",
     "children": [
       {
+        "id": "2d63451ca99cab95",
+        "type": "tabs",
+        "dimension": 28.041825095057032,
+        "children": [
+          {
+            "id": "4547677c62d05038",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "463dfe0ed39ca20d",
         "type": "tabs",
+        "dimension": 71.95817490494296,
         "children": [
           {
             "id": "536178a415c8e1bd",
@@ -49,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278
   },
   "right": {
     "id": "6ad6365988976961",
@@ -79,9 +95,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 221.5
   },
-  "active": "4547677c62d05038",
-  "lastOpenFiles": []
+  "active": "969598c55d5bca89",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
