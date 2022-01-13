@@ -1,4 +1,4 @@
-an [[mathematical function]] $f:=A\rightarrow B$ is said to be bijective if it meets the requirements of being a [[surjection]] and a [[injective]] at the same time:
+an [[mathematical function]] $f:=A\rightarrow B$ is said to be bijective if it meets the requirements of being a [[surjection]] and a [[injection]] at the same time:
 
 $$\forall a_1, a_2 \in A [a_1\neq a_2 \rightarrow f(a_1)\neq f(a_2)]$$
 and

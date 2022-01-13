@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e1e2a7f234784c57",
+        "id": "2d23c69f5e4ceb98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
+            "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
+                "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
+                "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,19 +111,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
-  "active": "e1e2a7f234784c57",
+  "active": "2d23c69f5e4ceb98",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/combinatorics/inclusion-exclusion principle.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/newton's generalized binomial theorem.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/variation.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/rule of sum.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation (repetition).md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/factorial.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/dirichlet's drawer principle.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/derangement.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/combinatorics.md"
+    "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
+    "Computer Science/mathematics/discrete mathematics/sets/aleph number.md",
+    "Computer Science/mathematics/discrete mathematics/functions/codomain.md",
+    "Computer Science/mathematics/discrete mathematics/functions/choice function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/inverse image.md",
+    "Computer Science/mathematics/discrete mathematics/functions/bijection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/domain.md",
+    "Computer Science/mathematics/discrete mathematics/sets/set theory.md",
+    "Computer Science/mathematics/discrete mathematics/sets/well-ordered set.md",
+    "Computer Science/mathematics/discrete mathematics/sets/union.md"
   ]
 }
