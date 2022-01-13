@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2d23c69f5e4ceb98",
+        "id": "98fa1ac9ff4dfffe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
-            "mode": "preview"
+            "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
+                "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
+                "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,17 +114,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "2d23c69f5e4ceb98",
+  "active": "98fa1ac9ff4dfffe",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md",
-    "Computer Science/mathematics/discrete mathematics/sets/aleph number.md",
-    "Computer Science/mathematics/discrete mathematics/functions/codomain.md",
-    "Computer Science/mathematics/discrete mathematics/functions/choice function.md",
-    "Computer Science/mathematics/discrete mathematics/functions/inverse image.md",
-    "Computer Science/mathematics/discrete mathematics/functions/bijection.md",
-    "Computer Science/mathematics/discrete mathematics/functions/domain.md",
-    "Computer Science/mathematics/discrete mathematics/sets/set theory.md",
-    "Computer Science/mathematics/discrete mathematics/sets/well-ordered set.md",
-    "Computer Science/mathematics/discrete mathematics/sets/union.md"
+    "Computer Science/mathematics/formal systems/well-formed formula.md",
+    "Computer Science/mathematics/formal systems/theorem.md",
+    "Computer Science/mathematics/formal systems/proof theory.md",
+    "Computer Science/mathematics/formal systems/formal system.md",
+    "Computer Science/mathematics/formal systems/axiom.md",
+    "Computer Science/mathematics/formal systems/axiom schemata.md",
+    "Computer Science/mathematics/formal systems/alphabet.md",
+    "Computer Science/mathematics/formal systems/formula.md",
+    "Computer Science/mathematics/discrete mathematics/sets/Untitled.md",
+    "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md"
   ]
 }
