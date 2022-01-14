@@ -10,5 +10,4 @@ a bijection from the set $X$ to the set $Y$ has an [[inverse function]] form $Y$
 
 a bijection from a set to itself is called a [[permutation]]
 
-
 #functions

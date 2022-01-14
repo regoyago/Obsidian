@@ -5,5 +5,4 @@ $$x \ R \ y \ \text{  or  }\  y\ R \ x$$
 
 its a more restrictive version of a [[connected relation]]
 
-
 #relations

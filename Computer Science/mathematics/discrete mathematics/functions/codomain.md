@@ -2,6 +2,4 @@ in mathematics the codomain or set of destination of a [[mathematical function]]
 
 typically represented by $Y$ with the following notation:
 $$f : X\rightarrow Y$$
-
-
 #functions

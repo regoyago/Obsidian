@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
-            "mode": "preview"
+            "file": "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 222
   },
   "right": {
     "id": "6ad6365988976961",
@@ -84,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
+                "file": "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,20 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "active": "ab44b88d930b0f72",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
-    "Computer Science/mathematics/discrete mathematics/relations/equivalence relation.md",
-    "equivalence class.md",
-    "quotient set.md",
-    "ordered pair.md",
-    "Computer Science/mathematics/discrete mathematics/relations/identity relation.md",
-    "Computer Science/mathematics/discrete mathematics/relations/strongly connected relation.md",
-    "Computer Science/mathematics/discrete mathematics/relations/setoid.md",
-    "Computer Science/mathematics/discrete mathematics/relations/symmetric relation.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/partition.md"
+    "Computer Science/mathematics/discrete mathematics/functions/surjection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/mathematical function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/inverse function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/inverse image.md",
+    "Computer Science/mathematics/discrete mathematics/functions/injection.md",
+    "Computer Science/mathematics/discrete mathematics/functions/image.md",
+    "Computer Science/mathematics/discrete mathematics/functions/identity function.md",
+    "Computer Science/mathematics/discrete mathematics/functions/function composition.md",
+    "Computer Science/mathematics/discrete mathematics/functions/domain.md",
+    "Computer Science/mathematics/discrete mathematics/functions/codomain.md"
   ]
 }

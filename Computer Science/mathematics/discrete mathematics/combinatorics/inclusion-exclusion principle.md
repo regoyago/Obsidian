@@ -3,7 +3,7 @@ given two sets $A$ an $B$, each a finite [[set]], then:
 
 $$|A\cup B|=|A|+|B|-|A\cap B|$$
 
-the reason behind this formula is that, if we were define the $A\cup B$ as the cardinal of both $A$ and $B$, if there were some element that belong to both elements, they would be counted twice, thus we need to substract one those elements that are on both (since they have been counted twice already)
+the reason behind this formula is that, if we were define the $A\cup B$ as the cardinal of both $A$ and $B$, if there were some element that belong to both elements, they would be counted twice, thus we need to subtract one those elements that are on both (since they have been counted twice already)
 
 given the same principle for three different sets $A, B, C$:
 
@@ -22,9 +22,10 @@ we can define two complementary sets: $\overline{\bigcup_{i=1}^{n}}$ =$\bigcap_{
 
 
 expanding both definitions:
--	$|\bigcup_{i=1}^{n}S_i|=$ $=\sum_{i=1}^{n}|S_i|-\sum_{1\leq i<j\leq n}|S_{i}\cap S_{j}|+\ldots +(-1)^n|S_{1}\cap \ldots \cap S_{n}|=$ $=|S|+\sum_{k=1}^{n}(-1)^{k} \sum_{1\leq i_1<i_2<\ldots <i_k\leq n}|S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}|$
--	$|\bigcap_{i=1}^{n}\bar{S_i}| =$ $=|S|-\sum_{i=1}^{n-1}|S_i|-\sum_{1\leq i<j\leq n}|S_{i}\cap S_{j}|+\ldots +(-1)^n|S_{1}\cap \ldots \cap S_{n}|=$ $=|S|+\sum_{k=1}^{n}(-1)^{k} \sum_{1\leq i_1<i_2<\ldots <i_k\leq n}|S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}|$
 
+-	$|\bigcup_{i=1}^{n}S_i|=$ $=\sum_{i=1}^{n}|S_i|-\sum_{1\leq i<j\leq n}|S_{i}\cap S_{j}|+\ldots +(-1)^n|S_{1}\cap \ldots \cap S_{n}|=$ $=|S|+\sum_{k=1}^{n}(-1)^{k} \sum_{1\leq i_1<i_2<\ldots <i_k\leq n}|S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}|$
+
+-	$|\bigcap_{i=1}^{n}\bar{S_i}| =$ $=|S|-\sum_{i=1}^{n-1}|S_i|-\sum_{1\leq i<j\leq n}|S_{i}\cap S_{j}|+\ldots +(-1)^n|S_{1}\cap \ldots \cap S_{n}|=$ $=|S|+\sum_{k=1}^{n}(-1)^{k} \sum_{1\leq i_1<i_2<\ldots <i_k\leq n}|S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}|$
 
 in order to prove the first equality, we take any element $x\in S$ and we check that it is "counted" as many times in the right part of the equation as in the left
 - if $x$ doesn't satisfy any property $P$, that is, $x\in \bigcap_{i=1}^{n}\bar{S_i}$ and contributes with a 1 on the left side. 

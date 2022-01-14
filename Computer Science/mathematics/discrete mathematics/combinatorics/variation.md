@@ -18,6 +18,4 @@ we can define a variation of order $r$ from the elements in $A$ as an [[injectio
 
 overall, the number of [[injection]]] from a [[set]] of cardinal $r$ to a set of cardinal $n$, given $r\leq n$ is $n*(n-1)*(n-2)\ldots *(n-(r-2))*(n-(r-1)) =\frac {n!}{(n-r)""}=V(n,r)$
 
-
-
 #combinatorics

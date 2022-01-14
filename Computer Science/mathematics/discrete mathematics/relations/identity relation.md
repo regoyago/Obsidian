@@ -2,5 +2,4 @@ in mathematics, the identity relation is a particular case of [[homogeneous bina
 
 formally :
 $$I = \{(x,x)|x\in X\}$$
-
 #relations 

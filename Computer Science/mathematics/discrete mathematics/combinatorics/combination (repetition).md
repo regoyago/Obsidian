@@ -13,5 +13,4 @@ hence, we are considering only solutions $(x_1,x_2,\ldots ,x_n)$with $x_i\in \ma
 also, each non-negative solution $(x_1,x_2,\ldots ,x_n)$ of the latter equation, corresponds to a chain of $r$ 0 and $n-1$ | distributed as 
 $$\overbrace{1\ldots 1}^{x_1}|\overbrace{1\ldots 1}^{x_2}||\overbrace{1\ldots 1}^{x_n}$$hence, if we want to obtain the number of ways of reordering $n-1$ | in $n+r-1$ positions, that number is:
 $$\binom{n+r-1}{r}=\binom{n+r-1}{n-1}$$
-
 #combinatorics

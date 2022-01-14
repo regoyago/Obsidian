@@ -6,7 +6,4 @@ the mathematical definition of permutation is given by the definition of [[facto
 
 $$P(n)=n!=n*(n-1)*(n-2)\ldots *2*1 $$
 
-
-
-
 #combinatorics

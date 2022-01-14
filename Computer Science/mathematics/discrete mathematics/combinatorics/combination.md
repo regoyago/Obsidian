@@ -17,6 +17,4 @@ $$\binom{n}{r}=\frac{n!}{r!(n-r)!}$$
 
 from this definition, for a given $n$ and $r$, such that $0\leq r \leq n$, we verify that:
 $$\binom{n}{r}=\binom{n}{n-r}$$
-
-
 #combinatorics

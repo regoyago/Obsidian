@@ -2,6 +2,4 @@ in mathematics the domain or initial set of a [[mathematical function]] is the [
 
 typically represented by $X$ with the following notation:
 $$f : X\rightarrow Y$$
-
-
 #functions

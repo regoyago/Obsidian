@@ -9,5 +9,4 @@ we can prove this definition by using the [[rule of product]]:
 from each permutation with repetition, we obtain $n_1!n_2!\ldots n_r!$ usual permutations, one for each possible order of the $n_i$ objects if we think of them as different, hence:
 $$PR(n;n_1,n_2,\ldots n_r)*n_1!*n_2!*\ldots *n_r! =n!=P(n)$$
 
-
 #combinatorics
