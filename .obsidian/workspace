@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "98fa1ac9ff4dfffe",
+        "id": "ab44b88d930b0f72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
-            "mode": "source"
+            "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 239
   },
   "right": {
     "id": "6ad6365988976961",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
+                "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/formal systems/well-formed formula.md",
+                "file": "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,17 +114,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "98fa1ac9ff4dfffe",
+  "active": "ab44b88d930b0f72",
   "lastOpenFiles": [
-    "Computer Science/mathematics/formal systems/well-formed formula.md",
-    "Computer Science/mathematics/formal systems/theorem.md",
-    "Computer Science/mathematics/formal systems/proof theory.md",
-    "Computer Science/mathematics/formal systems/formal system.md",
-    "Computer Science/mathematics/formal systems/axiom.md",
-    "Computer Science/mathematics/formal systems/axiom schemata.md",
-    "Computer Science/mathematics/formal systems/alphabet.md",
-    "Computer Science/mathematics/formal systems/formula.md",
-    "Computer Science/mathematics/discrete mathematics/sets/Untitled.md",
-    "Computer Science/mathematics/discrete mathematics/sets/axiom of choice.md"
+    "Computer Science/mathematics/discrete mathematics/relations/irreflexive relation.md",
+    "Computer Science/mathematics/discrete mathematics/relations/equivalence relation.md",
+    "equivalence class.md",
+    "quotient set.md",
+    "ordered pair.md",
+    "Computer Science/mathematics/discrete mathematics/relations/identity relation.md",
+    "Computer Science/mathematics/discrete mathematics/relations/strongly connected relation.md",
+    "Computer Science/mathematics/discrete mathematics/relations/setoid.md",
+    "Computer Science/mathematics/discrete mathematics/relations/symmetric relation.md",
+    "Computer Science/mathematics/discrete mathematics/set theory/partition.md"
   ]
 }

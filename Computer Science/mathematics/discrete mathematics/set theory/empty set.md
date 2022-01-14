@@ -2,7 +2,7 @@ in [[set theory]], the empty set is the unique [[set]] having no elements, that 
 
 some of the most common notations for the empty set include $\{\}$, $\emptyset$, or $\varnothing$
 
-in standard [[axiomatic set theory]], by the [[principle of extensionality]], two sets are equal if they have the same elements, as a result there can only be one set with no elements, hence the usage of "the empty set" instead of the "an empty set"
+in standard [[set theory]], by the [[principle of extensionality]], two sets are equal if they have the same elements, as a result there can only be one set with no elements, hence the usage of "the empty set" instead of the "an empty set"
 
 for any set $A$:
 - the empty set is a [[subset]] of $A$: 
