@@ -6,7 +6,7 @@ $$A^C = U\backslash A$$
 $$A^C =  \{x\in U : x\notin A\}$$
 
 let $A$ and $B$ be two sets in a universe $U$, the following identities capture important properties of absolute complements:
-- [[de morgan's laws]]
+- de morgan's laws
 	- $(A\cup B)^C = A^C \cap B^C$
 	-  $(A\cap B)^C = A^C \cup B^C$
 -  complement laws[^1]:
