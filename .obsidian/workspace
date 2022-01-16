@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36fac5b3b54aa6ab",
+        "id": "400be9120e31c1cb",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/mathematics/formal systems/completness.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mathematical_logic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/mathematics/formal systems/completness.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/mathematics/formal systems/completness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "36fac5b3b54aa6ab",
+  "active": "400be9120e31c1cb",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/first-order logic/satisfiability.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/first-order logic/universal quantification.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/first-order logic/closed formula.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/first-order logic/atomic sentence.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/zeroth-order logic/atomic formula.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/logical implication.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/semantic tableau.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/higher-order logic.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/semantics.md",
-    "Computer Science/mathematics/discrete mathematics/mathematical logic/direct demonstration.md"
+    "Computer Science/mathematics/formal systems/completness.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/shannon's expansion theorem.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/boolean function.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/boolean literal.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/duality principle.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/function minimization.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/boolean expression.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/karnaugh maps/disjunctive normal form.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/karnaugh maps/conjunctive normal form.md",
+    "Computer Science/mathematics/discrete mathematics/mathematical logic/boolean algebra/karnaugh maps/karnaugh map.md"
   ]
 }
