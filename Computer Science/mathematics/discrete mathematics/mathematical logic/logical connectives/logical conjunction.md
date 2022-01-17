@@ -11,7 +11,6 @@ the logical conjunction can be read as:
  - "$p$,$q$"
 
 beyond logic, the term "conjunction" also refers to similar concepts:
-- in [[programming languages]] with the [[short--circuit and]]
 - in [[set theory]], [[intersection]]
 - in [[first-order logic]], [[universal quantification]]
 

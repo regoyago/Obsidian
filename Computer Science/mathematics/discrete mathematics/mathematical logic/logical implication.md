@@ -1,4 +1,4 @@
-in [[mathematical logic]], implication (also known as logical consequence) is the relationship between statements that holds true when one logically "follows from" one or more others
+in [[mathematical logic]], implication (also known as logical consequence) is the relationship between [[statement]]s that holds true when one logically "follows from" one or more others
 
 given two [[statement]]s $P$ and $Q$, it is said that $P$ implies $Q$, or that you can deduce $Q$ from $P$, when the composite statement $P\rightarrow Q$ is a [[tautology]] ($\top$).
 this means that when $P$ is true, $Q$ will also be true and when $P$ is false, $Q$ will also be false.

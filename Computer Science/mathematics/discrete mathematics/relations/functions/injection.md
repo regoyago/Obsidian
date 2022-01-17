@@ -3,7 +3,9 @@ in mathematics, an injective function, also known as injection is a [[mathematic
 in other words, every element of the function's [[codomain]] is the [[image]] of at most one element of its [[domain]]
 
 $\forall a,b \in X, f(a) = f(b) \implies a = b$
-which is [[logically equivalent]] to the [[contraposition]]
+which is logically equivalent[^1]  to the [[logical contraposition]]
 $\forall a,b \in X, a\neq b \implies f(a)\neq f(b)$
 
 #functions 
+
+[^1]: [[logical equivalence]]s

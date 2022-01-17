@@ -1,4 +1,4 @@
-in [[set theory]], the axiom of choice is an [[axiom]] equivalent to the statement  "a [[cartesian product]] of a collection of non-empty sets is non-empty"
+in [[set theory]], the axiom of choice is an [[axiom]] equivalent to the [[statement]]  "a [[cartesian product]] of a collection of non-empty sets is non-empty"
 
 informally put, the axiom of choice says that given any collection of bins, each containing at least one object, it is possible to make a selection of exactly one object from each bin even if the collection is [[infinity]]
 
