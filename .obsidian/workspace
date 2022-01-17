@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a1a609aa083786",
+        "id": "26beef79f08bc58a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/set theory/order theory/supremum.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/set theory/order theory/supremum.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/set theory/order theory/supremum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,17 +109,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "d1a1a609aa083786",
+  "active": "26beef79f08bc58a",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/supremum.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/poset.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/maximal.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/infimum.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/proset.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/order theory.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/ordered pair.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/partial order.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/minimal.md",
-    "Computer Science/mathematics/discrete mathematics/set theory/order theory/preorder.md"
+    "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path problem.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path.md",
+    "articulation vertex.md",
+    "biconnected.md",
+    "regular graph.md",
+    "complete graph.md",
+    "tournament.md",
+    "line graph.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/hypergraph.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/outdegree.md"
   ]
 }
