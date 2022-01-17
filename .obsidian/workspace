@@ -10,6 +10,18 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "6d213e8e756f2bc4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,16 +123,16 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "26beef79f08bc58a",
+  "active": "6d213e8e756f2bc4",
   "lastOpenFiles": [
+    "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
     "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path problem.md",
     "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path.md",
-    "articulation vertex.md",
-    "biconnected.md",
-    "regular graph.md",
-    "complete graph.md",
-    "tournament.md",
-    "line graph.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/articulation vertex.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/biconnected.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/regular graph.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/complete graph.md",
+    "Computer Science/mathematics/discrete mathematics/graph theory/line graph.md",
     "Computer Science/mathematics/discrete mathematics/graph theory/hypergraph.md",
     "Computer Science/mathematics/discrete mathematics/graph theory/outdegree.md"
   ]
