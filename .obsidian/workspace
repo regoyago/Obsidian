@@ -7,18 +7,10 @@
         "id": "26beef79f08bc58a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "6d213e8e756f2bc4",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
-            "mode": "preview",
+            "file": "Computer Science/mathematics/discrete mathematics/automata theory/abstract machine.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 213
   },
   "right": {
     "id": "6ad6365988976961",
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
+                "file": "Computer Science/mathematics/discrete mathematics/automata theory/abstract machine.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
+                "file": "Computer Science/mathematics/discrete mathematics/automata theory/abstract machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "6d213e8e756f2bc4",
+  "active": "26beef79f08bc58a",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/graph theory/tournament.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path problem.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/hamiltonian path.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/articulation vertex.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/biconnected.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/regular graph.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/complete graph.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/line graph.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/hypergraph.md",
-    "Computer Science/mathematics/discrete mathematics/graph theory/outdegree.md"
+    "Computer Science/mathematics/discrete mathematics/automata theory/abstract machine.md",
+    "Computer Science/mathematics/discrete mathematics/automata theory/automata theory.md",
+    "Computer Science/mathematics/discrete mathematics/automata theory/automaton.md",
+    "Computer Science/mathematics/discrete mathematics/automata theory/computational problems.md",
+    "Computer Science/mathematics/discrete mathematics/automata theory/finite automaton.md",
+    "Computer Science/mathematics/discrete mathematics/automata theory/model of computation.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/rule of product.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/factorial.md",
+    "Computer Science/mathematics/discrete mathematics/combinatorics/variation.md"
   ]
 }

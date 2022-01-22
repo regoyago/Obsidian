@@ -44,5 +44,6 @@
     "irreflexive",
     "setoids"
   ],
-  "legacyEditor": false
+  "legacyEditor": false,
+  "trashOption": "local"
 }
