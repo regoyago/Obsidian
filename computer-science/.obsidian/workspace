@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "d06c3f176d625760",
+    "type": "split",
+    "children": [
+      {
+        "id": "3386d95fa628ed1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mathematics/formal systems/completness.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a7ba9186645f7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "89c31a6cfe70868b",
+        "type": "tabs",
+        "dimension": 27.89046653144016,
+        "children": [
+          {
+            "id": "a93b26f6c20bfea9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd01a7cbc526863",
+        "type": "tabs",
+        "dimension": 72.10953346855985,
+        "children": [
+          {
+            "id": "8089c7b4f1c754ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21fad8d60015b004",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211
+  },
+  "right": {
+    "id": "f32386eb7d6882b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9b0fe76213ef35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0808cfe146a74635",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mathematics/formal systems/completness.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 138
+  },
+  "active": "3386d95fa628ed1f",
+  "lastOpenFiles": [
+    "mathematics/formal systems/completness.md"
+  ]
+}
