@@ -1,6 +1,6 @@
 in mathematics, the composition of relations is the forming of new [[binary relation]]s $R;S$ from two given relations $R$ and $S$
 
-[[function composition]] is an special case of relation composition
+[[computer-science/mathematics/discrete mathematics/relations/functions/function composition]] is an special case of relation composition
 
 formal definition:
 if $R\subseteq X\times Y$ and $S\subseteq Y\times Z$ are two binary relations, then their composition $R;S$ is the relation

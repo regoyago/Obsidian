@@ -4,6 +4,6 @@ therefore, every [[differentiable function]] is integrable
 - every bounded [[mathematical function]] on $[a,b]$, with a finite number of discontinuity points on that interval, is integrable on $[a,b]$
 - let $f$ be a integrable function on $[a,b]$ in the riemann sense, and such that:
 $$m\leq f(x)\leq M, \ \ \ \ \ \ \forall x\in [a,b]$$
-if $g$ is continuous on $[m,M]$, then the [[function composition]] $g\circ f$ is also integrable on $[a,b]$
+if $g$ is continuous on $[m,M]$, then the [[computer-science/mathematics/calculus/functions/function analysis/function composition]] $g\circ f$ is also integrable on $[a,b]$
 
 #integrals 

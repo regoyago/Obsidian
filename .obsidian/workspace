@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "26beef79f08bc58a",
+        "id": "2d2931fb69965620",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/mathematics/calculus/integration/riemann sums.md",
-            "mode": "preview",
+            "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/mathematics/calculus/integration/riemann sums.md",
+                "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/mathematics/calculus/integration/riemann sums.md",
+                "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "26beef79f08bc58a",
+  "active": "2d2931fb69965620",
   "lastOpenFiles": [
+    "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
+    "computer-science/mathematics/calculus/equations/partial differential equation.md",
+    "computer-science/mathematics/calculus/equations/differential equation.md",
+    "computer-science/mathematics/calculus/equations/equation.md",
+    "computer-science/mathematics/calculus/differentiation/logarithmic differentiation.md",
     "computer-science/mathematics/calculus/integration/riemann sums.md",
     "computer-science/mathematics/calculus/integration/barrow's rule.md",
     "computer-science/mathematics/calculus/differentiation/leibniz's product rule.md",
     "computer-science/mathematics/calculus/differentiation/implicit differentiation.md",
-    "computer-science/mathematics/calculus/differentiation/derivative at a point.md",
-    "computer-science/mathematics/calculus/differentiation/rolle's theorem.md",
-    "computer-science/mathematics/calculus/differentiation/partial derivative.md",
-    "computer-science/mathematics/calculus/differentiation/one-sided derivative.md",
-    "computer-science/mathematics/calculus/differentiation/logarithmic differentiation.md",
-    "computer-science/mathematics/calculus/differentiation/lagrange_s mean value theorem.md"
+    "computer-science/mathematics/calculus/differentiation/derivative at a point.md"
   ]
 }
