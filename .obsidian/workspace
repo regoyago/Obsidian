@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
+            "file": "computer-science/mathematics/calculus/sets of numbers/number.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
+                "file": "computer-science/mathematics/calculus/sets of numbers/number.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
+                "file": "computer-science/mathematics/calculus/sets of numbers/number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,15 +117,15 @@
   },
   "active": "26beef79f08bc58a",
   "lastOpenFiles": [
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/little ω notation.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/little o notation.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/big Θ notation.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/big Ω notation.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/big O notation.md",
-    "computer-science/algorithms/computational complexity theory/asymptotic notation/asymptotic notation.md",
-    "computer-science/algorithms/computational complexity theory/complexity classes/NP-complete.md",
-    "README.md",
-    "computer-science/algorithms/computational complexity theory/complexity class.md"
+    "computer-science/mathematics/calculus/sets of numbers/number.md",
+    "computer-science/mathematics/calculus/sets of numbers/real number.md",
+    "computer-science/mathematics/calculus/sets of numbers/rational number.md",
+    "computer-science/mathematics/calculus/sets of numbers/natural number.md",
+    "computer-science/mathematics/calculus/sets of numbers/irrational number.md",
+    "computer-science/mathematics/calculus/sets of numbers/integer number.md",
+    "computer-science/mathematics/calculus/sets of numbers/imaginary unit.md",
+    "computer-science/mathematics/calculus/sets of numbers/imaginary number.md",
+    "computer-science/mathematics/calculus/sets of numbers/extended real number.md",
+    "computer-science/mathematics/calculus/sets of numbers/decimal representation.md"
   ]
 }

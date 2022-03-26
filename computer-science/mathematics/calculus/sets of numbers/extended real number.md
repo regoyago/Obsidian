@@ -1,0 +1,2 @@
+in mathematics, the affine extended real number system is obtained from the [[real number]] system $\mathbb{R}$ by adding two infinity elements $+\infty$, $-\infty$, where both are treated as actual numbers  
+#numbers
