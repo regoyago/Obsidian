@@ -45,5 +45,6 @@
     "setoids"
   ],
   "legacyEditor": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "readableLineLength": false
 }

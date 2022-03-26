@@ -9,4 +9,4 @@ heuristics may produce results by themselves or may be used in conjunction with 
   
 results about [[NP-hardness]] in theoretical computer science make heuristics the only viable option for a variety of complex optimisation problems that need to be routinely solved in real-world applications  
   
-heuristics underlie the whole field of [[artificial intelligence]] and the computer simulation of a thought process, as they may be used in situations where there are no known [[algorithms]]
+heuristics underlie the whole field of [[artificial intelligence]] and the computer simulation of a thought process, as they may be used in situations where there are no known [[algorithm]]s

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2931fb69965620",
+        "id": "21777bcd5af73d52",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
+            "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#functions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
+                "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
+                "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "2d2931fb69965620",
+  "active": "21777bcd5af73d52",
   "lastOpenFiles": [
-    "computer-science/mathematics/calculus/equations/ordinary differential equation.md",
-    "computer-science/mathematics/calculus/equations/partial differential equation.md",
-    "computer-science/mathematics/calculus/equations/differential equation.md",
-    "computer-science/mathematics/calculus/equations/equation.md",
-    "computer-science/mathematics/calculus/differentiation/logarithmic differentiation.md",
-    "computer-science/mathematics/calculus/integration/riemann sums.md",
-    "computer-science/mathematics/calculus/integration/barrow's rule.md",
-    "computer-science/mathematics/calculus/differentiation/leibniz's product rule.md",
-    "computer-science/mathematics/calculus/differentiation/implicit differentiation.md",
-    "computer-science/mathematics/calculus/differentiation/derivative at a point.md"
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/diophantine equation.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/divisor.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/euclidean algorithm.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/greatest common divisor.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/prime number.md",
+    "computer-science/mathematics/algebra/modular arithmetic/arithmetic.md",
+    "computer-science/mathematics/algebra/modular arithmetic/fundamental theorem of arithmetic.md",
+    "computer-science/mathematics/algebra/modular arithmetic/divisibility/common divisor.md",
+    "computer-science/mathematics/algebra/modular arithmetic/euler's theorem/euler Φ function.md"
   ]
 }
