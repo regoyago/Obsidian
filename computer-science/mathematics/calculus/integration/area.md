@@ -1,0 +1,1 @@
+area is the extent of a two-dimensional region, shape or planar lamina in the [[plane]]
