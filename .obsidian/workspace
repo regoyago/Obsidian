@@ -7,8 +7,12 @@
         "id": "26beef79f08bc58a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213
+    "width": 319
   },
   "right": {
     "id": "6ad6365988976961",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +117,15 @@
   },
   "active": "26beef79f08bc58a",
   "lastOpenFiles": [
-    "Computer Science/mathematics/discrete mathematics/automata theory/abstract machine.md",
-    "Computer Science/mathematics/discrete mathematics/automata theory/automata theory.md",
-    "Computer Science/mathematics/discrete mathematics/automata theory/automaton.md",
-    "Computer Science/mathematics/discrete mathematics/automata theory/computational problems.md",
-    "Computer Science/mathematics/discrete mathematics/automata theory/finite automaton.md",
-    "Computer Science/mathematics/discrete mathematics/automata theory/model of computation.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/rule of product.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/permutation.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/factorial.md",
-    "Computer Science/mathematics/discrete mathematics/combinatorics/variation.md"
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/exponential and logarithmic growth.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/little ω notation.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/little o notation.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/big Θ notation.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/big Ω notation.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/big O notation.md",
+    "computer-science/algorithms/computational complexity theory/asymptotic notation/asymptotic notation.md",
+    "computer-science/algorithms/computational complexity theory/complexity classes/NP-complete.md",
+    "README.md",
+    "computer-science/algorithms/computational complexity theory/complexity class.md"
   ]
 }
