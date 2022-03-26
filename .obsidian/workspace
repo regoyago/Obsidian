@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/mathematics/calculus/functions/approximations/taylor's polynomial.md",
-            "mode": "source",
+            "file": "computer-science/mathematics/calculus/functions/trigonometry/hypotenuse.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/mathematics/calculus/functions/approximations/taylor's polynomial.md",
+                "file": "computer-science/mathematics/calculus/functions/trigonometry/hypotenuse.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/mathematics/calculus/functions/approximations/taylor's polynomial.md",
+                "file": "computer-science/mathematics/calculus/functions/trigonometry/hypotenuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,15 +117,15 @@
   },
   "active": "26beef79f08bc58a",
   "lastOpenFiles": [
+    "computer-science/mathematics/calculus/functions/trigonometry/hypotenuse.md",
+    "computer-science/mathematics/calculus/functions/trigonometry/injective function.md",
+    "computer-science/mathematics/calculus/functions/trigonometry/arcsine.md",
     "computer-science/mathematics/calculus/functions/approximations/taylor's polynomial.md",
     "computer-science/mathematics/calculus/functions/approximations/newton-raphson method.md",
     "computer-science/mathematics/calculus/functions/approximations/lagrange's interpolation.md",
     "computer-science/mathematics/calculus/functions/exponential function.md",
     "computer-science/mathematics/calculus/functions/absolute value.md",
     "computer-science/mathematics/calculus/functions/logarithmic function.md",
-    "computer-science/mathematics/calculus/functions/polynomial function.md",
-    "computer-science/mathematics/calculus/functions/rational function.md",
-    "computer-science/mathematics/calculus/sets of numbers/complex number.md",
-    "computer-science/mathematics/discrete mathematics/relations/functions/mathematical function.md"
+    "computer-science/mathematics/calculus/functions/polynomial function.md"
   ]
 }

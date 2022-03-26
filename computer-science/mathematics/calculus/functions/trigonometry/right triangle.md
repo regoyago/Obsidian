@@ -1,0 +1,1 @@
+a right triangle or right-angled triangle is a [[triangle]] in which one [[angle]] is a [[right angle]]
