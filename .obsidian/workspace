@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "21777bcd5af73d52",
+        "id": "b4058eca8b5b1728",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
+            "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 327
   },
   "right": {
     "id": "6ad6365988976961",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
+                "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
+                "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "21777bcd5af73d52",
+  "active": "b4058eca8b5b1728",
   "lastOpenFiles": [
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/coprime.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/diophantine equation.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/divisor.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/euclidean algorithm.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/greatest common divisor.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/prime number.md",
-    "computer-science/mathematics/algebra/modular arithmetic/arithmetic.md",
-    "computer-science/mathematics/algebra/modular arithmetic/fundamental theorem of arithmetic.md",
-    "computer-science/mathematics/algebra/modular arithmetic/divisibility/common divisor.md",
-    "computer-science/mathematics/algebra/modular arithmetic/euler's theorem/euler Φ function.md"
+    "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
+    "computer-science/artificial intelligence/artificial neural networks/least mean squares.md",
+    "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
+    "computer-science/artificial intelligence/artificial neural networks/artificial neural network.md",
+    "computer-science/artificial intelligence/artificial neural networks/gradient descent.md",
+    "computer-science/artificial intelligence/artificial neural networks/ADAptive LINear Element.md",
+    "computer-science/artificial intelligence/artificial neural networks/artificial neuron.md",
+    "computer-science/artificial intelligence/artificial neural networks/stochastic gradient descent.md",
+    "computer-science/artificial intelligence/artificial neural networks/activation function.md",
+    "computer-science/artificial intelligence/artificial neural networks/activation functions/radial function.md"
   ]
 }

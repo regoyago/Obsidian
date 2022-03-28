@@ -16,8 +16,8 @@ the definition [^1] of a limit uses $\epsilon$ to represent any small positive n
   
 the phrase "as $x$ approaches $c$", then indicates that we refer to values of $x$ whose distance from $c$ is less than some positive number $\delta$, that is, values of $x$ within either $(c-\delta , c)$ or $(c, c+\delta)$ which can be expressed as $0<|x-c|<\delta$, the first inequality means that the distance between $x$ and $c$ is greater than $0$ and that $x\neq c$, while the second indicates that $x$ is within the distance $\delta$ of $c$  
   
-the above definition of a limit is true even if $f(c)\neq L$, indeed the function $f$ need not even be defined at $c$  
-  
+the above definition of a limit is true even if $f(c)\neq L$, indeed the function $f$ need not even be defined at $c$ 
+
 #limits  
   
 [^1]: this definition is known as the $(\epsilon , \delta)$ definition of a limit

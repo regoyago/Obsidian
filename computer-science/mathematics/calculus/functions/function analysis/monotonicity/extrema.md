@@ -14,7 +14,7 @@ an extrema point must be the point in which, by the right and by its left, the f
 moreover, for this to be true, the exact point at which the function has its extrema, must have $0$ as slope, since it is not increasing nor decreasing
 thus, we can affirm that if we want to find extrema on a function[^1], we need to find all points in which its [[derivative]] is $0$:
 formally:
-- let $f:(a,b)\to \mattbb{R}$ a [[differentiable function]] at $x_0\in (a,b)$, if $f$ has a relative extrema at $x_0$, then $f'(x_0)=0$
+- let $f:(a,b)\to \mathbb{R}$ a [[differentiable function]] at $x_0\in (a,b)$, if $f$ has a relative extrema at $x_0$, then $f'(x_0)=0$
 
 in order to know whether the obtained extrema is a maximum or a minimum:
 - first derivative test[^2] : let $f:[a,b]\to \mathbb{R}$ be a [[continuous function]], $x_0\in (a,b)$ and let $r>0$ such that $f$ is a [[differentiable function]] on $(x_0-r,x_0)\cup (x_0,x_0+r)$
