@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
+            "file": "computer-science/mathematics/algebra/systems of linear equations/linear system.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "23feff9270384b46",
         "type": "tabs",
-        "dimension": 26.48148148148148,
+        "dimension": 31.679389312977097,
         "children": [
           {
             "id": "400be9120e31c1cb",
@@ -38,9 +38,9 @@
         ]
       },
       {
-        "id": "463dfe0ed39ca20d",
+        "id": "cc014131406efa02",
         "type": "tabs",
-        "dimension": 73.51851851851852,
+        "dimension": 68.32061068702289,
         "children": [
           {
             "id": "536178a415c8e1bd",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "polynomial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,28 +64,14 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 327
-  },
-  "right": {
-    "id": "6ad6365988976961",
-    "type": "split",
-    "children": [
-      {
-        "id": "ed508b11a64367ac",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e9645f390c6ddd7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
+                "file": "computer-science/mathematics/algebra/systems of linear equations/linear system.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
+                "file": "computer-science/mathematics/algebra/systems of linear equations/linear system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,20 +98,27 @@
       }
     ],
     "direction": "horizontal",
+    "width": 327
+  },
+  "right": {
+    "id": "6ad6365988976961",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
     "width": 221.5,
     "collapsed": true
   },
   "active": "b4058eca8b5b1728",
   "lastOpenFiles": [
-    "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
-    "computer-science/artificial intelligence/artificial neural networks/least mean squares.md",
-    "computer-science/artificial intelligence/artificial neural networks/perceptron.md",
-    "computer-science/artificial intelligence/artificial neural networks/artificial neural network.md",
-    "computer-science/artificial intelligence/artificial neural networks/gradient descent.md",
-    "computer-science/artificial intelligence/artificial neural networks/ADAptive LINear Element.md",
-    "computer-science/artificial intelligence/artificial neural networks/artificial neuron.md",
-    "computer-science/artificial intelligence/artificial neural networks/stochastic gradient descent.md",
-    "computer-science/artificial intelligence/artificial neural networks/activation function.md",
-    "computer-science/artificial intelligence/artificial neural networks/activation functions/radial function.md"
+    "computer-science/mathematics/algebra/systems of linear equations/linear system.md",
+    "computer-science/mathematics/algebra/systems of linear equations/overdetermined system.md",
+    "computer-science/mathematics/algebra/systems of linear equations/undetermined system.md",
+    "computer-science/mathematics/algebra/systems of linear equations/linear system elementary operation.md",
+    "computer-science/mathematics/algebra/systems of linear equations/homogeneous linear system.md",
+    "computer-science/mathematics/algebra/matrices/gaussian elimination.md",
+    "computer-science/mathematics/algebra/matrices/row canonical matrix.md",
+    "computer-science/mathematics/algebra/matrices/echelon matrix.md",
+    "computer-science/mathematics/algebra/systems of linear equations/equations/mathematical equation.md",
+    "computer-science/mathematics/algebra/matrices/matrix.md"
   ]
 }

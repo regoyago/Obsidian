@@ -1,6 +1,6 @@
 in calculus, a method called implicit differentiation makes use of the [[chain rule]] to differentiate  implicitly defined [[mathematical function]]s
 
-to differentiate an implicit function $y(x)$, defined by an equation $F(x,y)=0$, it is not generally possible t solve it explicitly for $y$ and then differentiate
+to differentiate an implicit function $y(x)$, defined by an [[mathematical equation]] $F(x,y)=0$, it is not generally possible t solve it explicitly for $y$ and then differentiate
 instead, one can totally differentiate $F(x,y)=0$ with respect to $x$ and to $y$ and then solve the resulting [[linear equation]]for $\frac{dy}{dx}$ to explicitly get the [[derivative]] in terms of $x$ and $y$
 
 even when it is possible to explicitly solve the original equation, the formula resulting from total differentiation, is, in general, much simpler and easier to use 

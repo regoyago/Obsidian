@@ -20,7 +20,7 @@ it starts by assuming small wights and, a each step, by finding the gradient of 
 
 if the MSE-gradient is positive, the  error would keep increasing positively if the same weight is used for further iterations, which means we need to reduce the weights
 otherwise, we need to increase the weights
-the weight update equation is
+the weight update [[mathematical equation]] is
 $$W_{n+1} = W_n - \eta \nabla\epsilon[n]$$
 where $\epsilon$ represents the mean-square error and $\eta$ is a convergence coefficient
 the negative sign shows that we go down the slope of the error, $\epsilon$ to find the filter weights, $W_i$, which minimise the error

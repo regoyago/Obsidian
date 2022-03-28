@@ -1,4 +1,4 @@
-in [[trigonometry]], the law of sines, sine law, sine formula or sine rule is an equation relating the lengths of the sides of a [[triangle]] to the [[sine]]s of its angles, according to the law:
+in [[trigonometry]], the law of sines, sine law, sine formula or sine rule is an [[mathematical equation]] relating the lengths of the sides of a [[triangle]] to the [[sine]]s of its angles, according to the law:
 $$\frac{a}{sin A}=\frac{b}{sin B}=\frac{c}{sin C} = 2R$$
 
 where $a,b$ and $c$ are the lengths of the sides of a triangle, and $A,B$ and $C$ are the opposite angles, while $R$ is the [[radius]] of the triangles [[circumference]]

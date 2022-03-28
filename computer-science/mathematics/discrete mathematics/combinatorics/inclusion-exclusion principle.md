@@ -27,7 +27,7 @@ expanding both definitions:
 
 -	$|\bigcap_{i=1}^{n}\bar{S_i}| =$ $=|S|-\sum_{i=1}^{n-1}|S_i|-\sum_{1\leq i<j\leq n}|S_{i}\cap S_{j}|+\ldots +(-1)^n|S_{1}\cap \ldots \cap S_{n}|=$ $=|S|+\sum_{k=1}^{n}(-1)^{k} \sum_{1\leq i_1<i_2<\ldots <i_k\leq n}|S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}|$
 
-in order to prove the first equality, we take any element $x\in S$ and we check that it is "counted" as many times in the right part of the equation as in the left
+in order to prove the first equality, we take any element $x\in S$ and we check that it is "counted" as many times in the right part of the [[mathematical equation]] as in the left
 - if $x$ doesn't satisfy any property $P$, that is, $x\in \bigcap_{i=1}^{n}\bar{S_i}$ and contributes with a 1 on the left side. 
 also, $x\in S$, but $x\notin S_{i_1}\cap S_{i_2}\cap \ldots \cap S_{i_k}$, for all $i_1>\ldots>i_k$ and for all $k$
 then $x$ will also be counted one in the right part of the equality

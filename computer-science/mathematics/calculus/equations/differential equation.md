@@ -1,4 +1,4 @@
-in mathematics, a differential equation is an [[equation]] that relates one or more unknown [[mathematical function]]s and their [[derivative]]s
+in mathematics, a differential equation is an [[mathematical equation]] that relates one or more unknown [[mathematical function]]s and their [[derivative]]s
 
 mainly the study of differential equations consists of the study of their solution 
 

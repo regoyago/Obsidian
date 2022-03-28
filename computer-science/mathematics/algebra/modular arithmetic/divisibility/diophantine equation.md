@@ -1,4 +1,4 @@
-a linear diophantine equation of two variables is an [[equation]] of the form  
+a linear diophantine equation of two variables is an [[mathematical equation]] of the form  
 $$ax+by=n *$$where $a$,$b$,$n$ are [[integer number]]s and $x$,$y$ are variables  
 a solution of * is any couple ($x_0,y_0$)$\in \mathbb{Z} \times \mathbb{Z}$ satisfying $ax_0 + by_0 = n$  
   
