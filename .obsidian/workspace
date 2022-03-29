@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-science/mathematics/algebra/matrix algebra/elementary matrix.md",
+            "file": "computer-science/mathematics/algebra/matrix algebra/gaussian elimination.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/mathematics/algebra/matrix algebra/elementary matrix.md",
+                "file": "computer-science/mathematics/algebra/matrix algebra/gaussian elimination.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/mathematics/algebra/matrix algebra/elementary matrix.md",
+                "file": "computer-science/mathematics/algebra/matrix algebra/gaussian elimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,15 +110,15 @@
   },
   "active": "b4058eca8b5b1728",
   "lastOpenFiles": [
+    "computer-science/mathematics/algebra/matrix algebra/gaussian elimination.md",
+    "computer-science/mathematics/algebra/matrix algebra/echelon matrix.md",
     "computer-science/mathematics/algebra/matrix algebra/elementary matrix.md",
-    "computer-science/mathematics/algebra/matrix algebra/invertible matrix theorem.md",
-    "computer-science/mathematics/algebra/matrix algebra/invertible matrix.md",
-    "computer-science/mathematics/algebra/matrix algebra/matrix multiplication.md",
-    "computer-science/mathematics/algebra/matrix algebra/matrix.md",
-    "computer-science/mathematics/algebra/rings/mathematical ring.md",
-    "computer-science/mathematics/algebra/matrix algebra/identity matrix.md",
-    "computer-science/mathematics/algebra/matrix algebra/square matrix.md",
     "computer-science/mathematics/algebra/matrix algebra/row canonical matrix.md",
-    "computer-science/mathematics/algebra/matrix algebra/echelon matrix.md"
+    "computer-science/mathematics/algebra/matrix algebra/square matrix.md",
+    "computer-science/mathematics/algebra/matrix algebra/identity matrix.md",
+    "computer-science/mathematics/algebra/matrix algebra/invertible matrix.md",
+    "computer-science/mathematics/algebra/matrix algebra/invertible matrix theorem.md",
+    "computer-science/mathematics/algebra/systems of linear equations/linear system elementary operation.md",
+    "computer-science/mathematics/algebra/systems of linear equations/undetermined system.md"
   ]
 }

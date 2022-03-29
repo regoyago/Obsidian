@@ -3,7 +3,7 @@ in mathematics a vector space or linear  space is a [[set]] of objects called [[
 vector spaces are the subject of linear algebra and are well characterised by their [[dimension]], which specifies the number of independent directions in the space
 
 formally:
-a vector space over a [[mathematical field]] $F$ is a [[set]] with two [[binary operation]]s
+a vector space over a [[mathematical field]] $F$ is a [[set]] with two [[binary mathematical function]]s
 - the first operation, called addition or simply addition $+ : V\times V\rightarrow V$[^1] assigns to any two vectors $v$ and $w$ in $V$, a third vector in $V$, commonly written as $v+w$, the sum of the two previous
 - the second operation, scalar multiplication $f\times V\rightarrow V$, assigns  to any scalar $a$ in $F$ and any vector $v \in V$, another vector in $V$, denoted as $aV$[^2] 
 

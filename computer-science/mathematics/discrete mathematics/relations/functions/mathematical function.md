@@ -8,7 +8,7 @@ $$f:A\rightarrow B$$
 $$a\leadsto f(a)=b$$
 
 functions are also called maps or mappings 
-
+ 
 the [[domain]] and [[codomain]] are not always explicitly given when a function is defined 
 this occurs in [[mathematical analysis]], where a function from $X$ to $Y$ often refers to a function that may have a proper subset of $X$ as domain
 
