@@ -1,5 +1,5 @@
 in arithmetic, division, denoted by the symbol $/$ is essentially the inverse operation to multiplication, it finds the quotient of two numbers,
-under common rules, division by zero is undefined, and the property that checks the ability of a number tot be divided is referred to as [[divisibility]]
+under common rules, division by zero is undefined, and the property that checks the ability of a number tot be divided is referred to as divisibility
 
 at an elementary level, the division of two natural numbers is, among other possible interpretations, the process of calculating the number of times one number is contained within another 
 

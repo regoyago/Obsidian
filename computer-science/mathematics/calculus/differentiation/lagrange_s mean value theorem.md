@@ -20,7 +20,7 @@ applications[^1] : let $f$ be a [[differentiable function]] on $(a,b)$
 - if $f(x)\geq 0, \ \ \forall x \in (a,b), \ \ \ f$ is a [[monotonic function]] constantly increasing on the interval
 -  if $f(x)\leq 0, \ \ \forall x \in (a,b), \ \ \ f$ is a [[monotonic function]] constantly decreasing on the interval
 -   if $f(x)= 0, \ \ \forall x \in (a,b), \ \ \ f$ is constant on the interval
--    if $f(x)\neq 0, \ \ \forall x \in (a,b), \ \ \ f$ is a [[injective function]] on the interval
+-    if $f(x)\neq 0, \ \ \forall x \in (a,b), \ \ \ f$ is a [[injection]]on the interval
 
 [^1]: related to the [[monotonic function]]s and [[extrema]]
 #derivatives 

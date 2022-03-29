@@ -1,4 +1,4 @@
-in calculus, integration by parts or partial integration is a process that finds the [[integral]] of a product of [[mathematical function]]s in terms of the integral of the product of their [[derivative]] and [[indefinite integral - antiderivative]]
+in calculus, integration by parts or partial integration is a process that finds the [[integral]] of a product of [[mathematical function]]s in terms of the integral of the product of their [[derivative]] and [[indefinite integral]]
 
 it is frequently used to transform the antiderivative of a product of functions into an antiderivative for which a solution can more easily be found
 

@@ -9,4 +9,4 @@ since the [[tangent]] is not a one-to-one function, it must be restricted[^1:] i
 
 #trigonometry 
 
-[^1]: that is, to select an specific part of the function that meets the requirements of an [[injective function]]
+[^1]: that is, to select an specific part of the function that meets the requirements of an [[injection]]

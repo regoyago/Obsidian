@@ -1,5 +1,5 @@
 in [[trigonometry]], the cotangent is a [[trigonometric function]] of an angle
-the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the adjacent side, to the length of the side that is opposite that angle, that is to say that the [[cotangent]] is the [[multiplicatreive ciprocal quantity]] for any angle $x$, of the [[tangent]], this [[mathematical function]] is denoted simply as $ctg x$
+the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the adjacent side, to the length of the side that is opposite that angle, that is to say that the [[cotangent]] is the [[multiplicativer reciprocal quantity]] for any angle $x$, of the [[tangent]], this [[mathematical function]] is denoted simply as $ctg x$
 
 the definition of cotangent can be extended to the [[real number]]s
 

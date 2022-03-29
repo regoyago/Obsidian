@@ -1,5 +1,5 @@
 in [[trigonometry]], the cosecant is a [[trigonometric function]] of an angle
-the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the [[hypotenuse]], to the length of the side that is opposite that angle, that is to say that the [[cosecant]] is the [[multiplicatreive ciprocal quantity]] for any angle $x$, of the [[sine]], this [[mathematical function]] is denoted simply as $csc x$
+the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the [[hypotenuse]], to the length of the side that is opposite that angle, that is to say that the [[cosecant]] is the [[multiplicativer reciprocal quantity]] for any angle $x$, of the [[sine]], this [[mathematical function]] is denoted simply as $csc x$
 
 the definition of cosecant can be extended to the [[real number]]s
 

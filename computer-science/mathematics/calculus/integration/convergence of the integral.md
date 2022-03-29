@@ -7,7 +7,7 @@ exists and is equal to $L$ if the integrals under the [[limit]] for all sufficie
 it is also possible for an improper integral to diverge to infinity
 in that case, one may assign the value $\infty$ or $-\infty$ to the [[integral]] for instance:
 
-$$\lim_{b\to\infty}\int_1^b \frac{dx}{x}=\intfy$$
+$$\lim_{b\to\infty}\int_1^b \frac{dx}{x}=\infty$$
 
 however, other improper integrals may simply diverge in no particular direction [^1], this is called divergence by oscillation 
 

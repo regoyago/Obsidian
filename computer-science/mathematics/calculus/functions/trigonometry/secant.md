@@ -1,5 +1,5 @@
 in [[trigonometry]], the secant is a [[trigonometric function]] of an angle
-the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the [[hypotenuse]], to the length of the side that is adjacent to that angle, that is to say that the [[cosecant]] is the [[multiplicatreive ciprocal quantity]] for any angle $x$, of the [[cosine]], this [[mathematical function]] is denoted simply as $sec x$
+the sine of an acute angle is defined in the context of a [[right triangle]]: for the specified angle, it is the ratio of the length of the [[hypotenuse]], to the length of the side that is adjacent to that angle, that is to say that the [[cosecant]] is the [[multiplicativer reciprocal quantity]] for any angle $x$, of the [[cosine]], this [[mathematical function]] is denoted simply as $sec x$
 
 the definition of secant can be extended to the [[real number]]s
 
