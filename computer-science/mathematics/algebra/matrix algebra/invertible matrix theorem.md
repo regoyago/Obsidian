@@ -13,7 +13,7 @@ let $A$ be a [[square matrix]] over a [[mathematical field]] $\mathbb{K}$, the f
 - the [[linear transformation]] mapping $x$ to $Ax$ is a [[bijection]] $\mathbb{K}^n\rightarrow \mathbb{K}^n$
 - the [[determinant]] of $A$ is different from $0$ [^2]
 - the number $0$ is not an [[eigenvalue]] of $A$
-- the [[transpose of a matrix]] $A^T$ is an invertible matrix [^3]
+- the [[transpose matrix]] $A^T$ is an invertible matrix [^3]
 - $A$ can be expressed as a finite product of [[elementary matrix]]
 
 [^1]:based on this, the equation $Ax = 0$ has only the trivial solution $x=0$, and the equation $Ax=b$ has exactly one solution for each $b\in \mathbb{K}^n$ 

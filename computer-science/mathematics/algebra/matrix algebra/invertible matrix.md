@@ -19,5 +19,9 @@ the following properties hold for an invertible matrix $A$:
 - for any invertible matrices $A\text{ and }B$, $(AB)^{-1} = B^{-1} A^{-1}$
 - $det(A^{-1}) = (det A)^{-1}$
 
+the following is also true:
+let $A$ be an [[invertible matrix]] of size $n$, then 
+	$$A^{-1}=\frac{1}{detA}\times adjA$$
+where $adjA$ is the [[adjugate matrix]]  of $A$
 
 #matrix 

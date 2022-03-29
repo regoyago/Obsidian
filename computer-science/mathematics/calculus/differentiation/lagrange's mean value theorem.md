@@ -6,7 +6,7 @@ more precisely, the theorem states that if $f$ is a [[continuous function]] on t
 
 $$f'(c)=\frac{f(b)-f(a)}{b-a}$$
 
-the mean value theorem is a generalization of [[rolle's theorem]]which assumes $f(a)=f(b)$, so that the right-hand side above is $0$
+the mean value theorem is a generalisation of [[rolle's theorem]]which assumes $f(a)=f(b)$, so that the right-hand side above is $0$
 
 the mean value theorem is still valid is a slightly more general setting:
 one only needs to assume that $f:[a,b]\to \mathbb{R}$ is a  [[continuous function]], and that for every $x$ in $(a,b)$ the [[limit]]

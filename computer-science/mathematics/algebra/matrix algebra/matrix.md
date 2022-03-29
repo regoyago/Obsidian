@@ -76,4 +76,4 @@ let $A,B,C\in M_{m\times n}(\mathbb{K})$, and let $\lambda,\eta \in \mathbb{K}$ 
 #matrix
 
 [^1]: not all matrices are related to linear algebra, a [[adjacency matrix]] is an example of this
-[^2]: [[transpose of a matrix]]
+[^2]: [[transpose matrix]]
