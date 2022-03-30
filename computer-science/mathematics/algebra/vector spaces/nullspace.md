@@ -7,8 +7,7 @@ let $A\in M_{m\times n}(\mathbb{K})$ be an arbitrary [[matrix]] and let $AX=B$  
 a_{11}&a_{m2}&\ldots & a_{mn} \end{pmatrix}
 \begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{pmatrix}
 =
-\begin{pmatrix} b_1 \\ b_2 \\ \vdots \\ b_n \end{pmatrix}
-$$
+\begin{pmatrix} b_1 \\ b_2 \\ \vdots \\ b_n \end{pmatrix}$$
 being $W$ the solution [[set]] of the matrix equation $AX=B$
 if $B=\omicron \in M_{n\times1}(\mathbb{K})$,$W=\{(\alpha_1,\alpha_2,\ldots\alpha_n)\in \mathbb{K}^n|A\begin{pmatrix}\alpha_1 \\ \alpha_2\\ \vdots \\ \alpha_n \end{pmatrix} = \omicron\} \subseteq \mathbb{K}^n$ 
 we can define $W$ as a [[vector subspace]] of $A$, specifically, the nullspace of $A$

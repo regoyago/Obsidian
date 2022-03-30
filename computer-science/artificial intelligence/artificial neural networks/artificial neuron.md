@@ -12,7 +12,7 @@ usually the $x_0$ input is assigned the value $+1$ which makes it a _bias_ input
 this leaves only $m$ actual inputs to the neuron: form $x_1$ to $x_m$
 
 the output of the $k$th neuron is:$$y_k = \varphi\Big(\sum^m_{j=0} w_{kj}\ x_j\Big)$$
-where $\varphi$ is the  [[transfer function]]
+where $\varphi$ is the  [[activation function]]
 
 
 the output is analogous to the axon of a biological neuron, and its value propagates to the input of the next layer, or exists the system, probably as a part of an output [[vector]][^2]

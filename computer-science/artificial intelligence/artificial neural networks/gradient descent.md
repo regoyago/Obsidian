@@ -3,7 +3,7 @@ in mathematics gradient descent is a first order iterative optimisation [[algori
 the idea is to take repeated steps in the opposite direction of the gradient of the function at a current point
 
 gradient descent is based on the observation that:
-if the multi variable function $F(x)$ is a [[defined function]] and [[differentiable function]] in a neighbourhood of a point $a$, then $F(x)$ decreases fastest if one goes from $a$ in the direction of the negative gradient of $F$ at $a, -\nabla a$ , it follows that, if  
+if the multi variable function $F(x)$ is a defined and [[differentiable function]] in a neighbourhood of a point $a$, then $F(x)$ decreases fastest if one goes from $a$ in the direction of the negative gradient of $F$ at $a, -\nabla a$ , it follows that, if  
 $a_{n+1} = a_n - \gamma \nabla F (a_n)$ 
 for a small enough step size $\gamma \in \mathbb{R}_+$ then $F(a_n)\geq F(a_{n+1})$
 
