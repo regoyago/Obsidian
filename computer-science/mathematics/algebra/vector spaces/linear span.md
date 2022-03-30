@@ -14,7 +14,7 @@ given $V$ a $\mathbb{K}$-vector space, and $S\subset V$ a non-empty set, then $L
 properties of the linear span:
 - the subspace spanned by a non-empty subset $S$ of a vector space $V$ is the set of all linear combinations of vectors in $S$
 - every spanning set $S$ of a vector space $V$ must contain at least as man elements as any set of vectors from $V$ that display [[linear independence]] 
-- let $V$ be a finite-dimensional vector space, any set of vectors that spans $V$ can be reduced to a [[basis]] for $V$, by discarding vectors if necessary
+- let $V$ be a finite-dimensional vector space, any set of vectors that spans $V$ can be reduced to a [[vector space basis]] for $V$, by discarding vectors if necessary
   if the [[axiom of choice]] holds, this is true without the assumption that $V$ has finite dimension[^2]
 
 

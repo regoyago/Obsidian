@@ -9,7 +9,7 @@ let $A$ be a [[square matrix]] over a [[mathematical field]] $\mathbb{K}$, the f
 - the [[kernel]] of $A$ is trivial (contains only the  null vector, $ker(A) = \{0\}$) 
 - the columns of $A$ have [[linear independence]]
 - the columns of $A$ [[span]] $\mathbb{K}$
-- the [[column space]] of $A$ forms a [[basis]] of $\mathbb{K}^n$
+- the [[column space]] of $A$ forms a [[vector space basis]] of $\mathbb{K}^n$
 - the [[linear transformation]] mapping $x$ to $Ax$ is a [[bijection]] $\mathbb{K}^n\rightarrow \mathbb{K}^n$
 - the [[determinant]] of $A$ is different from $0$ [^2]
 - the number $0$ is not an [[eigenvalue]] of $A$

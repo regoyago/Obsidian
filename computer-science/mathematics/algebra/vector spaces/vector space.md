@@ -1,6 +1,6 @@
 in mathematics a vector space or linear  space is a [[set]] of objects called [[vector]]s,  which may be added or "scaled" multiplying them by a scalar from any [[mathematical field]]
 
-vector spaces are the subject of linear algebra and are well characterised by their [[dimension]], which specifies the number of independent directions in the space
+vector spaces are the subject of linear algebra and are well characterised by their [[vector space dimension]], which specifies the number of independent directions in the space
 
 formally:
 a vector space over a [[mathematical field]] $F$ is a [[set]] with two [[binary mathematical function]]s

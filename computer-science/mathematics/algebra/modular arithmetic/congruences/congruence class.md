@@ -10,4 +10,4 @@ proof:  $$a\equiv_m b \implies m|a-b\implies a-b=k.m \text{ for } K\in \mathbb{Z
 $ae-bf=ae-be+be-bf= e(a-b)+b(e-f)\overbrace{=}^{*,**}ekm+bk'm=$  
 $m(ek+bk')\implies m|ae-bf\implies ae \equiv_m bf$  
   
-#congruence
+#congruences
