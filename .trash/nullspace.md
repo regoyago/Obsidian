@@ -1,0 +1,1 @@
+in mathematics. the nullspace is the [[vector subspace]] of the  

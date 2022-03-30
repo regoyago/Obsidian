@@ -31,4 +31,4 @@ vector spaces are the appropriate linear-algebraic notion to deal with [[linear 
 [^1]: here $V\times V$ denotes the set of the [[ordered pair]]s of elements of $V$
 [^2]: scalar multiplication is not to be confused with the [[scalar product]]
 
-#vector 
+#vector_spaces  
