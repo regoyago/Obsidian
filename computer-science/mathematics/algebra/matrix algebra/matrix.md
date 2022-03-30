@@ -1,6 +1,6 @@
 in mathematics, a matrix is a rectangular [[array]] or table of numbers, symbols or [[expression]]s, arranged in rows and columns
 
-without further specifications, matrices represent [[linear map]]s and allow explicit computations in [[linear algebra]][^1]
+without further specifications, matrices represent [[linear transformation]]s and allow explicit computations in [[linear algebra]][^1]
 therefore, the study of matrices is a large part of linear algebra and most properties and operations of abstract linear algebra can be expressed in terms of matrices
 
 matrices with a single row are called row [[vector]] and those with a single column are called column vectors
