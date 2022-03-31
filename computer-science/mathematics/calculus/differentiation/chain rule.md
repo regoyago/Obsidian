@@ -1,5 +1,7 @@
-let $f$  and $g$ be two [[mathematical function]]s, such that $f$ is a [[differentiable function]] at $x_0$ and $g$ is a [[differentiable function]] at $f(x_0)$, then the composite function $g\circ f$ is differentiable at $x_0$ and 
+in calculus, the chain rule is a formula that expresses the [[derivative]] of the [[function composition]] for two [[differentiable function]]s $f$ and $g$
+more precisely, if $h=f\circ g$ is the [[mathematical function]] such that $h(x)=f(g(x))$ for every $x$, then the chain rule is:
+$$h'(x)=f'(g(x))g'(x)$$
+or, equivalently
+$$h'=(f\circ g)' = (f'\circ g)g'$$
 
-$$(g\circ f)'(x_0)=g'(f(x_0))f'(x_0)$$
-
-#derivatives
+#derivatives 
