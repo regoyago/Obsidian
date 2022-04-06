@@ -1,2 +1,0 @@
-in classical physics a conservative [[force]] is a force with the property that the total [[work]] done in moving a particle between two points is independent of the path taken
-equivalently, if a particle travels in a closed loop, the total work done by a conservative force is zero

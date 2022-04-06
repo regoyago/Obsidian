@@ -1,1 +1,0 @@
-in mathematics, a [[set]] $B$ 
