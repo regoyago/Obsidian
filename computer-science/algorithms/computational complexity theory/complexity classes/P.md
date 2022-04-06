@@ -1,6 +1,6 @@
 in [[computational complexity]] theory, $P$, also knwon as $PTIME$  is a fundamental [[complexity class]] that contains all [[decision problem]]s that can be solved by a [[deterministic finite state machine]] in a [[polynomial]] amount of computation time
 
-[[cobham's thesis]] holds that $P$ is the class of computational problems that are "solvable" or "tractable" [^1]
+cobham's thesis holds that $P$ is the class of computational problems that are "solvable" or "tractable" [^1]
 
 the formal definition of this class is as follows:
 

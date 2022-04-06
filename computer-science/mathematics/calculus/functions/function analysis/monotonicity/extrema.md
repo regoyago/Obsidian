@@ -1,4 +1,4 @@
-in mathematical analysis, the maxima and minima of a [[mathematical function]] are the largest and smallest values of a function either within a given [[range]] (local extrema) or on the entire [[domain]] (absolute extrema)
+in mathematical analysis, the maxima and minima of a [[mathematical function]] are the largest and smallest values of a function either within a given range  (local extrema) or on the entire [[domain]] (absolute extrema)
 
 as defined, the maximum and minimum of a [[set]] are the greatest and least elements in the set respectively.
 unbounded infinite sets have no minimum or maximum
@@ -24,11 +24,11 @@ in order to know whether the obtained extrema is a maximum or a minimum:
 
 -  second derivative test[^3] : let $f:(a,b)\to \mathbb{R}$ with a second order [[derivative]] which is a [[continuous function]] on $(a,b)$, let $x_0 \in (a,b)$ such that $f'(x_0)=0$ then
 	-  if $f''(x_0)<0$ then $f$ has a relative maximum at $x_0$
-	-  	if $f''(x_0)<0$ then $f$ has a relative maximum at $x_0$
+	-  if $f''(x_0)<0$ then $f$ has a relative maximum at $x_0$
 
 
 [^1]: take into account that the given function must be a [[differentiable function]] in order to be able to differentiate
-[^2]:this method just analyzes the sign of the [[one-sided derivative]]s to see whether the function was previously and will continue to be increasing or decreasing
+[^2]:this method just analyses the sign of the [[one-sided derivative]]s to see whether the function was previously and will continue to be increasing or decreasing
 [^3]: this method applies the concept of  [[inflexion]] to the study of extrema
 
 #function_analysis 

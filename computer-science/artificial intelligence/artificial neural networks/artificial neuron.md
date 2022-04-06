@@ -4,7 +4,7 @@ this artificial neuron receives one or more inputs and sums them to produce an o
 
 usually each input is separately weighted[^1], and the sum is passed through a non-linear function known as [[activation function]][^2]
 
-![[Pasted image 20220328162301.png]]
+![[Pasted image 20220328162301.png|560]]
 
 formally: 
 for a given artificial neuron, $k$, let there be $m+1$ inputs with signals $x_o$ through $x_m$ and weights $w_{k0}$ through $w_{km}$

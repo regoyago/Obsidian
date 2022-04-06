@@ -1,4 +1,4 @@
-in [[graph theory]], an eulerian trail is a [[trail]] in  a finite graph that visits every [[edge]] exactly once (allowing for revisiting vertices)
+in [[graph theory]], an eulerian trail is a[trail in  a finite graph that visits every [[edge]] exactly once (allowing for revisiting vertices)
 
 similarly, an eulerian circuit or cycle s an eulerian trail that starts and ends on the same [[vertex]]
 

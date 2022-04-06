@@ -4,9 +4,9 @@ it generally refers to the  network composed of multiple layers of [[perceptron]
 
 ![[Pasted image 20220331163531.png|560]]
 
-a multilayer perceptron consists of 3 fully connected  [[node layer]]s:
+a multilayer perceptron consists of 3 fully connected[^1]  [[node layer]]s:
 - input layer: formed of [[artificial neuron]]s that do not compute data, just store entries and forward them to the next layer
-- hidden layer: [^1]
+- hidden layer: [^2]
 - output layer: they emit the output
 
 ##### [[activation function]] 
@@ -18,7 +18,7 @@ the two historically common activation functions are [[sigmoid]]s, described by
 $$y(v_i) = tanh(v_i) \ \ \text{ and }\ \ y(v_i)=(1+e^{-v_i})^{-1}$$
 in recent developments of [[deep learning]], the [[ReLU]] is more frequently used
 
-
+  
 ##### learning
 
 learning occurs in the perceptron by changing the connection weights after each piece of data is processed, based on the amount of error in the output compared to the expected result
@@ -37,4 +37,5 @@ the variation of the weights is calculated <br> from $\delta^h_{pj}$ and the inp
 
 #artificial_neural_networks  
 
-[^1]: the exact working of these layers is not fully known yet, they are usually referred to as a blackbox
+[^1]: thus, the graph of the neural network would be a [[complete graph]]
+[^2]: the exact working of these layers is not fully known yet, they are usually referred to as a blackbox
