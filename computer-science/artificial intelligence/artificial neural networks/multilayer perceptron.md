@@ -29,7 +29,7 @@ in this specific example, the formalisation of this algorithm would be as follow
 
 hidden layer (h) - neuron j | output layer (o) - neuron k
 ------------- | -------------
-error calculated from the output of $PE_j$ and the <br> backpropagated output error to that layer <br> $\delta^h_{pj}=f^h_j(neta^h_{pj}\sum_k\delta^\omicron_{pk}w^\omicron_{kj}$  |   error calculated from the output of $PE_j$ <br> and output error $\delta_{pk}$ <br> $\delta^\omicron_{pk} = \delta_{pk}f^0_k(neta^0_{pk})$
+error calculated from the output of $PE_j$ and the <br> backpropagated output error to that layer <br> $\delta^h_{pj}=f^h_j(neta^h_{pj}\sum_k\delta^\omicron_{pk}w^\omicron_{kj})$  |   error calculated from the output of $PE_j$ <br> and output error $\delta_{pk}$ <br> $\delta^\omicron_{pk} = \delta_{pk}f^0_k(neta^0_{pk})$
 the variation of the weights is calculated <br> from $\delta^h_{pj}$ and the inputs to the neuron <br> $w^h_{ji}(t+1)=w^h_{ji}(t)+\mu\delta^h_{pj}i^{h-1}_i$ | the variation of the weights is calculated<br> from $\delta^o_{pk}$ and inputs to the neuron <br> $w^o_{kj}(t+1)=w^o_{kj}(t)+\mu\delta^o_{pk}i^{o-1}_{pj}$
 
 

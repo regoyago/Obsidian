@@ -1,0 +1,3 @@
+in [[artificial intelligence]], symbolic artificial intelligence is the term for the collection of all methods in artificial intelligence research that are based on high-level symbolic representation of problems
+
+symbolic ai was the dominant [[paradigm]] of ai research from the mid  50s until the middle 90s, however, the symbolic approach would eventually be abandoned in favour of subsymbolic approaches largely because of technical limits 
