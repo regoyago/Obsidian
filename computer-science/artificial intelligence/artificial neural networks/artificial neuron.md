@@ -3,7 +3,6 @@ an artificial neuron is a [[mathematical function]] conceived as a [[model]] of 
 this artificial neuron receives one or more inputs and sums them to produce an output 
 
 usually each input is separately weighted[^1], and the sum is passed through a non-linear function known as [[activation function]][^2]
-
 ![[Pasted image 20220328162301.png|560]]
 
 formally: 
