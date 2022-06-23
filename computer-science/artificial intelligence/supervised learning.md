@@ -1,0 +1,2 @@
+in [[artificial intelligence]], specifically [[machine learning]], supervised learning is the task of learning a functioin that maps an input to an output based on example input-output pairs
+it infers a function from labeled training data consisting of a set of training examples 

@@ -13,7 +13,7 @@ some implementations of machine learning use data and [[artificial neural networ
 
 machine learning approaches are traditionally divided into three broad categories, depending on the nature of the "signal" or "feedback" available to the learning system:
 - [[supervised learning]]: the computer is presented with example inputs and their desired outputs, given by  a "teacher", and the goal is to learn a general rile that maps inputs to outputs
-- [[unsupervised learning]]: no labels are given to the learning algorithm, leaving on it own to find structure in its input, this kind of learning can be a goal in itself of a means towards an end
+- [[unsupervised machine learning]]: no labels are given to the learning algorithm, leaving on it own to find structure in its input, this kind of learning can be a goal in itself of a means towards an end
 - [[reinforcement learning]]: a computer program interacts with a dynamic environment in which it must perform a certain goal, as it navigates its problem space, the program is provided feedback that's analogous to rewards, which it tries to maximise
 
 #machine_learning
